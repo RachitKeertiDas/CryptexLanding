@@ -216,12 +216,12 @@ a {
     -ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
     border-bottom: dotted 1px;
-    color: #39c088;
+    color: #38b8b7;
     text-decoration: none;
 }
 
 a:hover {
-    color: #39c088 !important;
+    color: #38b8b7 !important;
     border-bottom-color: transparent;
 }
 
@@ -1979,7 +1979,7 @@ header.major {
 }
 
 header.major:after {
-    background: #39c088;
+    background: #38b8b7;
     content: "";
     display: inline-block;
     height: 0.2em;
@@ -2049,7 +2049,7 @@ input[type="password"]:focus,
 input[type="email"]:focus,
 select:focus,
 textarea:focus {
-    border-color: #39c088;
+    border-color: #38b8b7;
 }
 
 select {
@@ -2152,7 +2152,7 @@ input[type="radio"]:checked+label:before {
 
 input[type="checkbox"]:focus+label:before,
 input[type="radio"]:focus+label:before {
-    border-color: #39c088;
+    border-color: #38b8b7;
 }
 
 input[type="checkbox"]+label:before {
@@ -2653,8 +2653,8 @@ input[type="button"]:hover,
 input[type="button"]:active,
 .button:hover,
 .button:active {
-    box-shadow: inset 0 0 0 1px #39c088;
-    color: #39c088 !important;
+    box-shadow: inset 0 0 0 1px #38b8b7;
+    color: #38b8b7 !important;
 }
 
 input[type="submit"]:active,
@@ -2950,7 +2950,7 @@ input[type="button"]:disabled,
 }
 
 .spotlight.style3 .content {
-    border-color: #39c088;
+    border-color: #38b8b7;
 }
 
 .spotlight.inactive .content {
@@ -3005,7 +3005,7 @@ body.is-touch .spotlight {
 }
 
 .wrapper.style2 {
-    background: #29b078;
+    background: #38b8b7;
 }
 
 .wrapper.style2 input[type="text"]:focus,
@@ -3041,7 +3041,7 @@ body.is-touch .spotlight {
 .wrapper.style2 input[type="button"].primary,
 .wrapper.style2 .button.primary {
     background-color: #ffffff;
-    color: #39c088 !important;
+    color: #38b8b7 !important;
 }
 
 .wrapper.style2 input[type="submit"].primary:hover,
@@ -3149,7 +3149,7 @@ body.is-touch .spotlight {
 
 .dropotron>li.active>a,
 .dropotron>li.active>span {
-    color: #39c088;
+    color: #38b8b7;
 }
 
 .dropotron.level-0 {
@@ -3244,7 +3244,7 @@ body.landing .dropotron.level-0 {
 
 #header nav ul li.active>a,
 #header nav ul li.active>span {
-    color: #39c088;
+    color: #38b8b7;
 }
 
 #header nav ul li>ul {
@@ -3691,7 +3691,7 @@ body.is-touch #banner {
         font-weight: 900;
     }
     #titleBar .toggle:before {
-        background: #39c088;
+        background: #38b8b7;
         color: rgba(255, 255, 255, 0.5);
         content: "\f0c9";
         display: block;
