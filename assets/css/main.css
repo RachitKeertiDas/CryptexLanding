@@ -3376,7 +3376,7 @@ body.is-touch #banner {
 }
 
 #footer .icons .icon.alt:before {
-    color: rgb(22, 21, 9) !important;
+    color: #001C27 !important;
     text-shadow: 1px 0 0 rgb(221, 207, 10), -1px 0 0 rgb(221, 207, 10), 0 1px 0 rgb(221, 207, 10), 0 -1px 0 rgb(221, 207, 10);
 }
 
